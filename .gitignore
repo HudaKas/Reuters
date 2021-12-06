@@ -130,3 +130,5 @@ dmypy.json
 
 # notebook
 Article.ipynb
+.Article.ipynb
+Article.ipynb
