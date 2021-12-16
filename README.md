@@ -1,6 +1,6 @@
 # Reuters
 
-Introduction:
+## Introduction:
 
 The Reuters-21578 dataset is a collection of documents with news articles. It is collected from the Reuters financial newswire service in 1987. The data is available in the collection of 22 data files, an SGML DTD file describing the data file format, and six files describing the categories used to index the data. The Challenge is to implement a model or algorithm that can classify news articles of (at least) the type "earn" covered in the dataset.
 
